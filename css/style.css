@@ -587,11 +587,13 @@ html {
     cursor:pointer;
   }
   .item-card-title{  
-    font-size: 30px;  
+    font-size: 30px; 
+    text-align: center; 
     transition:1s;
     cursor:pointer;
   }
   .item-card-title i{  
+
     font-size:15px;
     transition:1s;
     cursor:pointer;
@@ -609,6 +611,7 @@ html {
   .card-text{
     height:200px;
     font-size: 20px;
+    text-align: center;
   }
   
   .card::before, .card::after {
