@@ -104,7 +104,7 @@ html {
 == Media qurey section related to Navbar Section ==
 */
 
-@media screen and (max-width:768px) {
+@media screen and (max-width:1080px) {
     .nav__toggle-btn {
         display: block;
     }
